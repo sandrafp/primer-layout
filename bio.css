@@ -1,0 +1,110 @@
+.contenedor{
+	width: 700px;
+	height: 1165px;
+	margin: 0 auto;
+	border: 1px solid black;
+	padding: 20px;
+	
+
+}
+
+.coder img{
+	 background-size: 100%;
+     background-image: url("img/profile-1.png");
+     border-radius: 50%;
+     position: relative;
+     text-align: center;
+     left: 244px;
+     
+     
+    
+}
+
+h1{
+	text-align: center;
+}
+
+.html{
+   width: 600px;
+   height: 50px;
+   background-color: grey;
+}
+
+.css{
+	width: 400px;
+	height: 50px;
+	background-color: grey;
+
+
+}
+
+.javaScript{
+	width: 200px;
+	height: 50px;
+	background-color: grey;
+}
+
+.letras{
+	color: white;
+	font-size: 20px;
+	position: relative;
+	left: 30px;
+	top:10px;
+}
+
+.porta{
+	width: 650px;
+	height: 450px;
+	display: inline-block;
+	position: relative;
+	text-align: center;
+	left: 30px;
+}
+
+.pic{
+	width: 200px;
+	height: 200px;
+	display: inline-block;
+	
+}
+
+.uno{
+	background-image: url("img/p5.jpg");
+	width: 200px;
+	height: 200px;
+}
+
+.dos{
+	background-image: url("img/p6.jpg");
+	width: 200px;
+	height: 200px;
+}
+
+.tres{
+	background-image: url("img/p8.jpg");
+	width: 200px;
+	height: 200px;
+}
+
+.uno{
+	background-image: url("img/p5.jpg");
+	width: 200px;
+	height: 200px;
+}
+
+.dos{
+	background-image: url("img/p6.jpg");
+	width: 200px;
+	height: 200px;
+}
+
+.tres{
+	background-image: url("img/p8.jpg");
+	width: 200px;
+	height: 200px;
+}
+
+.lectura{
+	position: relative;
+	text-align: center;
+}

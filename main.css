@@ -1,0 +1,156 @@
+
+.padre{
+
+	margin: 100px 200px;
+	width: 900px;
+	height: 1000px;
+}
+
+.lista ul {
+	
+	
+	
+	list-style-type: none;
+	text-align: center;
+	display: inline-block;
+	text-decoration: none;
+
+
+	
+}
+
+.menu li{
+	
+	text-align: center;
+	text-decoration: none;
+
+
+}
+
+.lineaGrande{
+	
+	width: 800px;
+    right: 52px;
+    position: relative;
+
+
+}
+
+#logo{
+	width: 800px;
+	height: 110px;
+}
+
+.foto img{
+	width: 800px;
+	height:500px;
+	background-size: 100%;
+}
+
+.parrafo{
+	width: 300px;
+    height: 215px;
+    text-align: center;
+    font-size: 19px;
+    position: relative;
+    margin: 0 auto;
+    left: -48px;
+}
+
+hr{
+	width: 30px;
+	
+
+}
+
+
+	
+.caja{
+	width: 800px;
+	height: 400px;
+	margin: 1px;
+	
+	padding: 5px;
+	position: relative;
+	text-align: center;
+
+
+
+}
+
+.nombre{
+	position: relative;
+	color: black;
+	left: 65px;
+    top: 182px;
+}
+
+.cajas {
+	width:200px;
+	height: 200px;
+	
+	display: inline-block;
+	position: relative;
+
+	
+
+}
+
+.caja1{
+	background-image: url("img/profile-1.png");
+	background-size: 100%;
+}
+
+.caja2{
+	background-image: url("img/profile-2.png");
+	background-size: 100%;
+}
+
+.caja3{
+	background-image: url("img/profile-3.png");
+	background-size: 100%;
+}
+
+.caja4{
+	background-image: url("img/profile-4.png");
+	background-size: 100%;
+}
+
+.caja5{
+	background-image: url("img/profile-5.png");
+	background-size: 100%;
+}
+
+.caja6{
+	background-image: url("img/profile-6.png");
+	background-size: 100%;
+}
+
+h2{
+	left: 20px;
+	position: relative;
+}
+
+.memo{
+	display: inline-block;
+    margin: 0 auto;
+    margin-right: 4px;
+    border-right: 3px solid black;
+    position: relative;
+    text-align: center;
+    margin-left: 4px;
+    padding-right: 12px;
+    left: 151px;
+    text-decoration: none;
+}
+
+.memo1{
+	display: inline-block;
+	margin: 0 auto;
+    margin-right: 4px;
+    text-decoration: none;
+    position: relative;
+    text-align: center;
+    
+    left: 151px;
+}
